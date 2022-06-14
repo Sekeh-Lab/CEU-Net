@@ -23,8 +23,7 @@ Clustering Ensemble U-Net (CEU-Net) works by leveraging clustering and ensemble 
 
 In this paper we develop two deep learning semantic segmentation methods: Single U-Net and CEU-Net. Both are found in the "networks.py" script.
 
-
-[Test](Figure Examples\CE U-Net.png)
+<img src="Figure Examples/CE U-Net.png"/>
 
 ## Directions
 
