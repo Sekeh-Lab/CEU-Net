@@ -29,6 +29,8 @@ In this paper we develop two deep learning semantic segmentation methods: Single
 
 The most direct visualization of the code is provided in "CEU-Net-Example.ipynb." For running the code more efficiently, I recommend running via "run.py."
 
+NOTE: The [Houston](https://hyperspectral.ee.uh.edu/?page_id=1075) dataset is not avaliable for redistribution. Therefore, you must download the Houston dataset for youself and place the files into a folder named "Houston" in the "Data" folder.
+
 ## Results
 
 Results can be found in the paper. In addition, some of the visual results are provided in the folder "Figure Examples."
